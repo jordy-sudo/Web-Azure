@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\DELL\\Desktop\\ups\\Aprendizaje\\Net\\Azure-NetWeb\\PlatzywebSite\\PlatzywebSite.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\ups\\Aprendizaje\\Net\\Azure-NetWeb\\RepPlatzyWeb\\Web-Azure\\PlatzywebSite\\PlatzywebSite.csproj",
       "projectName": "PlatzywebSite",
-      "projectPath": "c:\\Users\\DELL\\Desktop\\ups\\Aprendizaje\\Net\\Azure-NetWeb\\PlatzywebSite\\PlatzywebSite.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\ups\\Aprendizaje\\Net\\Azure-NetWeb\\RepPlatzyWeb\\Web-Azure\\PlatzywebSite\\PlatzywebSite.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\DELL\\Desktop\\ups\\Aprendizaje\\Net\\Azure-NetWeb\\PlatzywebSite\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\ups\\Aprendizaje\\Net\\Azure-NetWeb\\RepPlatzyWeb\\Web-Azure\\PlatzywebSite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
